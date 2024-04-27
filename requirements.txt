@@ -1,0 +1,13 @@
+fastapi==0.110.2
+uvicorn==0.29.0
+requests==2.31.0
+numpy==1.26.4
+pandas==2.2.0
+transformers==4.40.1
+torch==2.3.0
+langchain==0.1.16
+langsmith==0.1.51
+nltk==3.8.1
+scikit-learn==1.4.2
+docker==7.0.0
+

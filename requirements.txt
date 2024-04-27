@@ -7,7 +7,7 @@ transformers==4.40.1
 torch==2.3.0
 langchain==0.1.16
 langsmith==0.1.51
-nltk==3.8.1
+nltk
 scikit-learn==1.4.2
 docker==7.0.0
-
+datasets
